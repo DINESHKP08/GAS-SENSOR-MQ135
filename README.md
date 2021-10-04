@@ -1,10 +1,7 @@
 echo "# GAS-SENSOR-MQ135" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/DINESHKP08/GAS-SENSOR-MQ135.git
-git push -u origin main
+
+https://github.com/DINESHKP08/GAS-SENSOR-MQ135.git
+
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
 #include <WiFiClient.h>
